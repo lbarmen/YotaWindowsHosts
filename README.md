@@ -1,6 +1,4 @@
-# YotaWindowsHosts
-Settings hosts for Windows Yota
-
+# Интернет через мобильный интернет Yota для Windows 10
 Настройки hosts файла на Windows 10, для стабильной работы через модем Yota.
 
 Инструкция:
