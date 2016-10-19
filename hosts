@@ -124,3 +124,6 @@
 127.0.0.1 fe2.update.microsoft.com.nsatc.net
 127.0.0.1 sls.update.microsoft.com.nsatc.net
 127.0.0.1 login.live.com.nsatc.net
+127.0.0.1 2.dl.delivery.mp.microsoft.com
+127.0.0.1 displaycatalog.mp.microsoft.com
+127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
