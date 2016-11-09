@@ -57,7 +57,6 @@
 127.0.0.1 g.msn.com
 127.0.0.1 hlrcv.stage.adobe.com
 127.0.0.1 i1.services.social.microsoft.com
-127.0.0.1 live.rads.msn.com
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 msedge.net
@@ -91,7 +90,6 @@
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 vortex-sandbox.data.microsoft.com
 127.0.0.1 vortex-win.data.microsoft.com
-127.0.0.1 watson.live.com
 127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.ppe.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
@@ -104,7 +102,6 @@
 127.0.0.1 cdn.content.prod.cms.msn.com
 127.0.0.1 tile-service.weather.microsoft.com
 127.0.0.1 service.weather.microsoft.com
-127.0.0.1 sn3301.storage.live.com
 127.0.0.1 win10.ipv6.microsoft.com
 127.0.0.1 v10.vortex-win.data.microsoft.com
 127.0.0.1 geover-prod.do.dsp.mp.microsoft.com
@@ -123,7 +120,6 @@
 127.0.0.1 wdcp.microsoft.com
 127.0.0.1 fe2.update.microsoft.com.nsatc.net
 127.0.0.1 sls.update.microsoft.com.nsatc.net
-127.0.0.1 login.live.com.nsatc.net
 127.0.0.1 2.dl.delivery.mp.microsoft.com
 127.0.0.1 displaycatalog.mp.microsoft.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
@@ -134,10 +130,14 @@
 127.0.0.1 microsoft.com-c-2.edgekey.net
 127.0.0.1 microsoft.com-c-2.edgekey.net.globalredir.akadns.net
 127.0.0.1 go.microsoft.com.edgekey.net
-127.0.0.1 e11290.dspg.akamaiedge.net
 127.0.0.1 crl.microsoft.com
 127.0.0.1 a1284.dscg.akamai.net
 127.0.0.1 HK2SCH130021344.wns.windows.com
 127.0.0.1 client.wns.windows.com
 127.0.0.1 ctldl.windowsupdate.com
 127.0.0.1 licensing.mp.microsoft.com
+127.0.0.1 akamaiedge.net
+127.0.0.1 bg.v4.dl.windowsupdate.com.nsatc.net
+127.0.0.1 w8v4.audownload.windowsupdate.nsatc.net
+127.0.0.1 cp401-prod.do.dsp.mp.microsoft.com
+127.0.0.1 store-images.microsoft.com-c.edgekey.net.globalredir.akadns.net
